@@ -1,0 +1,185 @@
+﻿Breed,Coat,Energy,Lifespan,Shedding
+Affenpinscher,Short,Medium,12-15 years,Minimal
+Afghan Hound,Long,High,12-14 years,Some
+Akbash,Medium,Low,10-11 years,Some
+Akita,Long,Medium,10-13 years,Some
+Alaskan Husky,Medium,Medium,12-15 years,Some
+Alaskan Malamute,Medium,Medium,10-12 years,Heavy
+American Bandogge Mastiff,Short,Medium,8-11 years,Some
+American Blue Heeler,Short,High,13-15 years,Some
+American Eskimo,Long,Medium,13-15 years,Heavy
+American Indian Dog,Medium,Medium,14-19 years,Minimal
+Anatolian Shepherd,Medium,Medium,13-15 years,Heavy
+Argentine Dogo,Short,High,10-12 years,Some
+Australian Cattle Dog,Short,High,13-15 years,Some
+Australian Shepherd,Medium,High,12-15 years,Some
+"Australian Shepherd, Miniature",Medium,High,12-15 years,Some
+Basenji,Short,High,12-16 years,Minimal
+Basset Hound,Short,Low,12-13 years,Some
+Beagle,Short,Medium,10-15 years,Some
+Bearded Collie,Medium,Medium,14-15 years,Minimal
+Belgian Malinois,Short,High,12-14 years,Some
+Belgian Sheepdog,Long,High,10-14 years,Some
+Belgian Tervuren,Medium,High,10-12 years,Heavy
+Bernese Mountain Dog,Medium,Low,7-10 years,Heavy
+Bichon Frise,Medium,Medium,12-15 years,Minimal
+Bloodhound,Short,Low,11-15 years,Some
+Boerboel,Short,Medium,8-10 years,Some
+Border Collie,Medium,High,12-15 years,Some
+Borzoi,Long,High,10-12 years,Minimal
+Bouvier des Ardennes,Medium,High,10-12 years,Minimal
+Bouvier des Flandres,Medium,High,10-12 years,Minimal
+Boxer,Short,High,10-12 years,Some
+Brittany,Medium,High,12-13 years,Minimal
+"Brittany, French",Medium,High,10-12 years,Some
+Bulldog,Short,Low,8-10 years,Heavy
+"Bulldog, American",Short,Low,8-10 years,Heavy
+"Bulldog, English",Short,Low,8-10 years,Heavy
+"Bulldog, French",Short,Medium,10-12 years,Minimal
+Bullmastiff,Short,Low,8-10 years,Some
+Cambodian Razorback Dog,Long,High,10-12 years,Some
+Canaan,Short,Medium,12-15 years,Some
+Cane Corso,Short,Medium,9-12 years,Minimal
+Carolina Dog,Short,High,12-15 years,Some
+Catahoula Leopard dog,Short,High,10-14 years,Some
+"Chihuahua, Long Coat",Long,Medium,14-16 years,Some
+"Chihuahua, Short Coat",Short,Medium,14-16 years,Some
+Chinese Crested,Medium,Medium,13-15 years,Minimal
+Chinese Shar-Pei,Short,Medium,9-11 years,Minimal
+Chow Chow,Medium,Medium,8-12 years,Some
+"Collie, Rough",Long,Medium,14-16 years,Heavy
+"Collie, Smooth",Short,Medium,12-15 years,Heavy
+Coonhound,Medium,High,10-12 years,Minimal
+"Coonhound, American English",Medium,High,10-12 years,Minimal
+"Coonhound, Black and Tan",Short,Medium,10-12 years,Minimal
+"Coonhound, Bluetick",Short,Medium,11-12 years,Some
+"Coonhound, Redbone",Short,High,11-12 years,Minimal
+"Coonhound, Treeing Walker",Short,High,12-13 years,Some
+Coton de Tulear,Long,Medium,14-16 years,Minimal
+"Cur, Black-Mouth",Short,High,15-16 years,Some
+"Cur, Mountain",Short,High,14-16 years,Some
+"Dachshund, Miniature Long Haired",Long,Medium,12-16 years,Some
+"Dachshund, Miniature Smooth Haired",Short,Medium,12-16 years,Minimal
+"Dachshund, Miniature Wire Haired",Medium,Medium,12-16 years,Minimal
+"Dachshund, Standard Long Haired",Long,Medium,14-16 years,Some
+"Dachshund, Standard Smooth Haired",Short,Medium,14-16 years,Minimal
+"Dachshund, Standard Wire Haired",Medium,Medium,14-16 years,Minimal
+Dalmatian,Short,High,10-13 years,Some
+Doberman Pinscher,Short,High,10-12 years,Minimal
+Dogue de Bordeaux,Short,Medium,5-8 years,Some
+English Mastiff,Short,Low,6-12 years,Some
+English Shepherd,Medium,High,14-16 years,Heavy
+Finnish Lapphund,Medium,Medium,12-14 years,Heavy
+Finnish Spitz,Short,Medium,12-14 years,Heavy
+"Foxhound, American",Short,Medium,10-12 years,Some
+"Foxhound, English",Short,High,10-13 years,Some
+German Pinscher,Short,High,12-14 years,Minimal
+German Shepherd,Short,Medium,7-10 years,Heavy
+"German Shepherd, King",Short,Medium,7-10 years,Heavy
+Great Dane,Short,Medium,7-10 years,Some
+Great Pyrenees,Medium,Medium,10-12 years,Heavy
+Greater Swiss Mountain Dog,Short,Medium,10-11 years,Some
+Greyhound,Short,Medium,10-14 years,Minimal
+"Griffon Vendeen, Petit Basset",Medium,Medium,12-14 years,Minimal
+"Griffon, Brussels",Short,Medium,10-15 years,Minimal
+Havanese,Long,Medium,14-16 years,Minimal
+Hound,Medium,Medium,12-15 years,Some
+Irish Wolfhound,Medium,Medium,6-10 years,Some
+Italian Greyhound,Short,High,12-15 years,Minimal
+Kangal,Medium,High,12-15 years,Some
+Keeshond,Long,Medium,13-15 years,Heavy
+Komondor,Long,Medium,10-12 years,Minimal
+Korean Jindo,Medium,High,12-14 years,Heavy
+Lhasa Apso,Long,Medium,12-14 years,Minimal
+Maltese,Long,High,12-15 years,Minimal
+Maremma Sheepdog,Medium,Medium,11-13 years,Heavy
+Mastiff,Short,Low,6-12 years,Some
+Miniature Pinscher,Short,Medium,10-14 years,Minimal
+"Mixed Breed, Large (over 44 lbs fully grown)",,,,
+"Mixed Breed, Medium (up to 44 lbs fully grown)",,,,
+"Mixed Breed, Small (under 24 lbs fully grown)",,,,
+Neapolitan Mastiff,Short,Low,8-10 years,Some
+Newfoundland,Short,Low,9-10 years,Some
+Norwegian Elkhound,Medium,High,12-15 years,Some
+Old English Sheepdog,Long,Medium,10-12 years,Heavy
+Olde English Bulldogge,Short,Medium,10-12 years,Some
+Papillon,Long,Medium,13-15 years,Minimal
+Pekingese,Long,Low,12-15 years,Heavy
+Pharaoh Hound,Short,High,11-14 years,Minimal
+Plott Hound,Short,High,12-14 years,Minimal
+Pointer,Short,High,12-17 years,Minimal
+"Pointer, German Shorthaired",Short,High,12-14 years,Some
+"Pointer, German Wirehaired",Medium,High,12-14 years,Minimal
+Pomeranian,Long,Low,12-16 years,Some
+"Poodle, Miniature",Long,High,14-15 years,Minimal
+"Poodle, Standard",Medium,Medium,12-15 years,Minimal
+"Poodle, Toy",Long,High,14-15 years,Minimal
+Portuguese Water Dog,Medium,Medium,12-15 years,Minimal
+Pug,Short,Low,13-15 years,Some
+Retriever,Medium,Medium,10-12 years,Heavy
+"Retriever, Chesapeake Bay",Short,High,10-13 years,Minimal
+"Retriever, Flat-Coated",Medium,High,8-10 years,Some
+"Retriever, Golden",Medium,Medium,10-12 years,Heavy
+"Retriever, Labrador",Short,High,10-12 years,Heavy
+Rhodesian Ridgeback,Short,High,10-12 years,Minimal
+Rottweiler,Short,Medium,9-10 years,Minimal
+Saint Bernard,Medium,Low,8-10 years,Some
+Samoyed,Medium,High,12-14 years,Some
+Schipperke,Medium,Medium,13-15 years,Some
+"Schnauzer, Giant",Medium,High,10-12 years,Minimal
+"Schnauzer, Miniature",Medium,Medium,12-14 years,Minimal
+"Schnauzer, Standard",Short,Medium,12-14 years,Minimal
+"Setter, English",Long,High,10-12 years,Heavy
+"Setter, Irish",Long,High,11-15 years,Some
+Shepherd,Short,Medium,7-10 years,Heavy
+Shetland Sheepdog,Long,Medium,12-13 years,Heavy
+Shiba Inu,Short,Medium,13-16 years,Heavy
+Shih Tzu,Long,Low,10-18 years,Minimal
+Siberian Husky,Medium,Medium,12-14 years,Heavy
+Spaniel,Medium,Medium,12-15 years,Some
+"Spaniel, American Cocker",Medium,Medium,12-15 years,Some
+"Spaniel, American Water",Medium,High,10-12 years,Minimal
+"Spaniel, Cavalier King Charles",Medium,Medium,9-15 years,Heavy
+"Spaniel, English Cocker",Medium,High,12-14 years,Heavy
+"Spaniel, English Springer",Medium,High,9-15 years,Some
+"Spaniel, Tibetan",Medium,Medium,12-15 years,Heavy
+"Spaniel, Welsh Springer",Medium,High,12-15 years,Some
+Terrier,Medium,Medium,12-15 years,Some
+"Terrier, Airedale",Medium,High,10-13 years,Minimal
+"Terrier, American Pit Bull",Short,High,12-14 years,Heavy
+"Terrier, American Staffordshire",Short,High,12-14 years,Minimal
+"Terrier, Black Russian",Medium,High,10-12 years,Heavy
+"Terrier, Border",Short,High,12-15 years,Minimal
+"Terrier, Boston",Short,Medium,11-13 years,minimal
+"Terrier, Bull",Short,Medium,9-15 years,Minimal
+"Terrier, Cairn",Medium,Medium,14-15 years,Minimal
+"Terrier, English Staffordshire",Short,High,12-14 years,Minimal
+"Terrier, Fox, Smooth",Short,High,12-15 years,Minimal
+"Terrier, Fox, Toy",Short,High,13-15 years,Some
+"Terrier, Fox, Wire",Short,Medium,10-15 years,Minimal
+"Terrier, Irish",Short,Medium,12-15 years,Minimal
+"Terrier, Jack Russell",Short,High,10-15 years,Minimal
+"Terrier, Manchester",Short,High,14-16 years,Some
+"Terrier, Norfolk",Short,Medium,13-18 years,Minimal
+"Terrier, Norwich",Medium,Medium,10-15 years,Minimal
+"Terrier, Parson Russell",Short,High,13-15 years,Minimal
+"Terrier, Patterdale",Medium,High,11-13 years,Some
+"Terrier, Pit Bull",Short,Medium,12-14 years,Heavy
+"Terrier, Rat",Short,High,12-18 years,Some
+"Terrier, Russell",Short,High,10-15 years,Minimal
+"Terrier, Scottish",Medium,Medium,12-15 years,Minimal
+"Terrier, Sealyham",Medium,Low,12-14 years,Minimal
+"Terrier, Silky",Medium,Medium,12-15 years,Minimal
+"Terrier, Soft Coated Wheaten",Short,Medium,12-15 years,Minimal
+"Terrier, Staffordshire Bull",Long,Medium,12-14 years,Some
+"Terrier, Tibetan",Long,High,12-15 years,Heavy
+"Terrier, Welsh",Medium,Medium,13-15 years,Some
+"Terrier, West Highland White",Long,High,11-15 years,Some
+"Terrier, Yorkshire",Medium,Medium,12-15 years,Minimal
+Tibetan Mastiff,Medium,Medium,12-15 years,Minimal
+Treeing Tennessee Brindle,Short,High,10-12 years,Minimal
+"Vizsla, Smooth Haired",Short,High,12-15 years,Some
+Weimaraner,Short,High,11-14 years,Some
+"Welsh Corgi, Cardigan",Medium,High,12-14 years,Some
+"Welsh Corgi, Pembroke",Medium,High,12-14 years,Some
+Whippet,Short,Medium,12-15 years,Some
